@@ -1,6 +1,35 @@
 b{
-
+    font-family: 'Poppins', sans-serif;
+    
 }
 .blue-color{
     color: darkcyan;
 }
+h1{
+    font-size: 45px;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    color: white;
+    font-weight: 700;
+    padding: 10px 30px;
+    border-radius: 5px;
+}
+.mission{
+    padding-left: 50%;
+    padding-right: 50%;
+}
+
+
