@@ -26,15 +26,16 @@ h1{
     font-weight: 700;
     padding: 10px 30px;
     border-radius: 5px;
+    margin-top: 10px;
 }
 .mission{
     padding-left: 35%;
 }
 .mission-item{
-    box-shadow: 10px 10px 40px gray;
-    width: 80%;
-    margin-left: 4%;
-    margin-right: 4%;
+  
+    width: 60%;
+    margin-left: 7%;
+    margin-right: 7%;
     padding-left: 15px;
     border-radius: 10px;
     background-color: rgba(205, 92, 92, 0.555);
@@ -50,5 +51,17 @@ h1{
 }
 h2{
 font-size: 25px;
+}
+section{
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+footer{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: center;
+    background-color: black;
+    color: burlywood;
+    margin: 0;
 }
 
