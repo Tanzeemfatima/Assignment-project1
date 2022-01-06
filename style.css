@@ -1,5 +1,6 @@
 b{
     font-family: font-family: 'Poppins', sans-serif;
+
     
 }
 .blue-color{
@@ -29,7 +30,7 @@ p{
     display: flex;
 }
 .half-width{
-    width: 40%;
+    width: 80%;
     padding-left: 50px;
     padding-right: 10px;
     margin-left: 4%;
